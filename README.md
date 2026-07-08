@@ -114,10 +114,6 @@ Currently, I focus on developing production-ready web applications, machine lear
 
 ---
 
-## Engineering Philosophy
-
-> "Great software isn't just code that works—it's code that is scalable, maintainable, secure, and built with the user in mind."
-
 ---
 
 ---
